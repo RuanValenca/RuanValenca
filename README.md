@@ -78,6 +78,6 @@ Aplicação voltada para listagem e descoberta de filmes, com foco em **consumo 
 
 ### 🔗 Onde me encontrar
 
-* 💼 [LinkedIn](https://www.linkedin.com)
+* 💼 [LinkedIn](https://www.linkedin.com/in/ruanvalenca/)
 
 📌 *Fique à vontade para explorar meus repositórios e acompanhar minha evolução!*
