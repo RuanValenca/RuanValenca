@@ -1,7 +1,7 @@
 ## 👋 Olá! Eu sou o Ruan Carlos
 
-🎓 Atualmente estudo **Análise e Desenvolvimento de Sistemas**
-💼 Trabalho integralmente como **Desenvolvedor Front-End**
+🎓 Atualmente estudo **Análise e Desenvolvimento de Sistemas** <br/>
+💼 Trabalho integralmente como **Desenvolvedor Front-End**<br/>
 📍 **Belo Horizonte – MG**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat\&logo=react)
